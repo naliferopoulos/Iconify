@@ -2,7 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Display</key>
+	<string>TRUE</string>
+	<key>Exit</key>
+	<string>FALSE</string>
+	<key>Tooltip</key>
+	<string>Iconify</string>
 	<key>Text</key>
 	<string>I&apos;m Batman!</string>
+	<key>Subtext</key>
+	<string>I really am.</string>
 </dict>
 </plist>
